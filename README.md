@@ -7,6 +7,7 @@ Trabalho acadêmico referente à disciplina de Qualidade de Software.
 * Marjorie Celestino
 * Carlos Eduardo
 * Weiner Silva
+* Gisana Cristina
   
 ## Áreas e Responsáveis
   
@@ -15,7 +16,7 @@ Na tabela abaixo constam os integrantes do grupo responsáveis por cada área ab
   **Área** | **Responsáveis**
   ---------|-----------------
   Gerência de Configuração | Marjorie Celestino
-  Gerência de Requisitos | Marjorie Celestino e Carlos Eduardo
+  Gerência de Requisitos | Marjorie Celestino,  Carlos Eduardo e Gisana Cristina
   Garantia de Qualidade | Weiner Silva
 
 
