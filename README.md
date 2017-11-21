@@ -44,4 +44,6 @@ Neste trabalho serão abordadas as áreas de Gerência de Requisitos, Garantia d
 A estrutura do repositório foi definida de acordo com o documento de Plano de Gerência de Configuração. Sendo a pasta principal Processo, e dentro dela constam os documentos de definição de processo das áreas abordadas todos os templates gerados para os processos definidos.
 
 * Pasta: Projeto
-   * Documentos gerados na execução dos processos de: GCO, GRE e GQA, alem do Cronograma.
+   * Documentos 
+      * Documentação gerada na execução dos processos de: GCO, GRE e GQA.
+      * Cronograma
